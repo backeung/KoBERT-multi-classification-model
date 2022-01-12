@@ -36,7 +36,7 @@ C. 최종 KoBERT 모델에서 사용한 사전: A+B 데이터셋
 
 (*세부 결과 및 이후 추천시스템 내용 생략)
 
-**참고**
+## **참고**
 1. https://velog.io/@seolini43/KOBERT%EB%A1%9C-%EB%8B%A4%EC%A4%91-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%ACColab
 2. https://github.com/SKTBrain/KoBERT/tree/master/kobert_hf
 3. https://github.com/SKTBrain/KoBERT/issues/68
