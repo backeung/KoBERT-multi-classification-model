@@ -1,7 +1,7 @@
 # KoBERT-multi-classification-model
 - 감정 다중 분류 KoBERT 모델
 - 목적: KoBERT 다중분류 모델을 이용한 감정분석 기반 영화 추천 시스템 연구(A study on the Movie Recommendation System based on Emotional Analysis using the KoBERT Multi-classification Model)
-- 연구 진행 날짜: 2021년 9~12월(약 3개월)
+- 연구 진행 날짜: 2021년 9월~12월(약 3개월)
 
 ## 1. 개요
 - 기존의 감성 분석은 평가의 긍/부정 극성을 판별하거나 특징별 평가 요약 등에만 초점을 맞추고 있어 상대적으로 의견 정보의 활용도가 낮아지는 문제가 있다(연종흠 외 3인, 2011). 해당 연구는 긍/부정을 나타내는 감성(Sentimental) 수준에서의 분류가 아닌 소비자의 감정(Emotional)을 고려해 리뷰 데이터에 나타난 소비자의 반응이 어떤 감정을 나타내는지에 대해 분석한 결과가 다른 소비자에게 영향을 미칠 수 있을 것이라고 판단하여 연구를 진행하였다.
